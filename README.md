@@ -1,0 +1,1 @@
+I have expanded the conversation bot to included a learning path. It will look for keywords like 'learn', 'help me', and 'answer'. It will key off programming languages like 'Python', or 'Java' and suggest documentation.
